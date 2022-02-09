@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Requests training
+requests/*.png
+
+# CSVs
+*.csv
+*.json
